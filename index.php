@@ -93,7 +93,7 @@ if ($ran_color == 3)
 		<div id="prize_desc">
 			<h2 style="font-size:30px">Jetzt mitmachen</h2>
 		<div id="forminput">
-				<form action="<?php echo $PHP_SELF ?>" method="POST" id="ss-form" >
+				<form action="<?php $_SERVER['PHP_SELF'] ?>" method="POST" id="ss-form" >
  				<input class="c_input txt_input" type="text" name="entry_name" value="Name" onBlur="if(this.value=='') this.value='Name';" onFocus="if(this.value=='Name') this.value='';" class="ss-q-short" id="entry_2" > <br/>
  				<input class="c_input txt_input" type="text" name="entry_mail" value="E-Mail Adresse" onBlur="if(this.value=='') this.value='E-Mail Adresse';" onFocus="if(this.value=='E-Mail Adresse') this.value='';"  class="ss-q-short" id="entry_4">
 		<br/><br/>
