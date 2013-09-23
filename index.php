@@ -40,7 +40,7 @@ mysql_select_db("playratdb2");
 //inserting data order
 mysql_query("INSERT INTO xmas2k12 (timestamp,fullplayrname,playrmail, preis) VALUES ('$ttime','$tname','$tmail', 'nissan')");
 	// form is submmitted
-	header('location: http://massive-mui.gopagoda.com/pagoda/default/danke.php');
+	header('location: danke.php');
 }
 ?>
 <?php
