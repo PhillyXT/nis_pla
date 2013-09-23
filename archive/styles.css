@@ -1,0 +1,89 @@
+*{
+	/* Resetting the default styles of the page */
+	margin:0;
+	padding:0;
+}
+
+body{
+	/* Setting default text color, background and a font stack */
+	font-size:0.825em;
+	font-family:Roboto, Arial, sans-serif;
+	/*background:url(img/bg.jpg) no-repeat;*/
+		width:810px;
+}
+h1,h2{text-transform: uppercase;
+font-weight: 300;
+color: #fff;
+padding-top: 10px;}
+
+p{font-size: 17px; color: #fff;
+font-weight: 100;}
+.mitte{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#top_bar{
+	background-color: #fff;
+}
+#part_1{
+	background-color: #34495e;
+	height: 250px;
+}
+#part_2{
+	background-color: #16a085;
+	height: 300px;
+}
+#part_3{
+	background-color: #e74c3c;
+	height: 250px;
+}
+#prizeview{
+	float: left;
+	padding-right: 20px;
+}
+
+#forminput{
+	width: 300px;
+	margin: auto;
+}
+.txt_input { 
+	-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; 
+	height: 50px;
+	width: 300px;
+	font-size: 25px;
+	color: #b9b9b9;
+	font-weight: 200;
+	margin: 5px;
+	border: none;
+	}
+#letsgo_button{
+	    background: url('img/send_button.png') no-repeat top left;
+	    width: 165px;
+	    height: 50px;
+	    border: none;
+	    cursor: pointer;
+	    	    cursor: hand;
+margin-left: 70px;}
+
+#letsgo_button:hover {
+	    cursor: hand;
+}
+.circle{
+	 width: 200px;
+   height: 200px;
+   background: blue; 
+   -moz-border-radius: 100px; 
+   -webkit-border-radius: 100px; 
+   border-radius: 100px;
+	background-color: #2b78ac;
+	margin-left: 75px;
+}
+#defaultCountdown{
+	padding-top: 70px;
+	width: 80px;
+	margin: auto;
+	font-size: 48px;
+}
+#intro{
+	padding-left: 350px;
+}

@@ -1,0 +1,107 @@
+*{
+	/* Resetting the default styles of the page */
+	margin:0;
+	padding:0;
+}
+
+body{
+	/* Setting default text color, background and a font stack 
+	font-size:0.825em;*/
+	font-family:Roboto, Arial, sans-serif;
+	/*background:url(img/bg.jpg) no-repeat;*/
+		width:810px;
+}
+.weg{
+	clear: both;
+}
+h1,h2{text-transform: uppercase;
+font-weight: 300;
+color: #fff;
+padding-top: 10px;}
+
+p{font-size: 17px; color: #fff;
+}
+.mitte{
+	padding-right: 15px;
+}
+#top_bar{
+	background-color: #fff;
+}
+#part_1{
+	background-color: #7f8c8d;
+	height: 300px;
+}
+#part_2{
+	background-color: #16a085;
+	height: 230px;
+}
+#part_2b{
+	background-color: #c0392b;
+	height: 230px;
+}
+#part_3{
+	background-color: #2980b9;
+	height: 250px;
+}
+#prizeview{
+	float: left;
+	padding-right: 20px;
+}
+.brief{
+	background-color: #c0392b;
+}
+
+#forminput{
+	/*width: 300px;*/
+}
+.txt_input { 
+	-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; 
+	height: 50px;
+	width: 350px;
+	font-size: 25px;
+	color: #b9b9b9;
+	font-weight: 200;
+	margin: 5px;
+	border: none;
+	}
+#letsgo_button{
+	    background: url('img/send_button.png') no-repeat top left;
+	    width: 165px;
+	    height: 50px;
+	    border: none;
+	    cursor: pointer;
+	    	    cursor: hand;
+margin-left: 100px;}
+
+#letsgo_button:hover {
+	    cursor: hand;
+}
+.circle{
+	width: 405px;
+	height: 250px;
+	/*background-color: #2b78ac;*/
+}
+#defaultCountdown{
+
+	font-size: 170px;
+	font-weight: 200;
+	color: #fff;
+	margin-left: auto;
+    margin-right: auto;
+    letter-spacing: -11px;
+    float: right;
+    margin-top: 20px;
+}
+.minuten {
+	text-align: center;
+	text-transform:uppercase;
+	font-size: 17px;     letter-spacing: 0px;
+	position: relative;
+	margin-right: 15px; 
+	float: right;
+	top:5px;
+
+}
+#intro{
+	padding-left: 350px;
+}
