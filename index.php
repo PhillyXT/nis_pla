@@ -3,7 +3,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>1000 PlayR 1000minuten</title>
-
+<meta property="og:title" content="Jetzt mit PlayR eine PlayStation 3 und einmal Gran Turismo 6 gewinnen!" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="local" />
+<meta property="og:image" content="http://www.playr.at/nis_plyr/og_image.jpg" />
+<meta property="og:site_name" content="" />
+<meta property="og:fb:admins" content="" />
+<meta property="og:description" content="Jetzt mit PlayR und Nissan eine PlayStation 3 und einmal Gran Turismo 6 gewinnen! " />
 <link rel="stylesheet" type="text/css" href="styles.css" />
 
   <!--<script src="http://code.jquery.com/jquery-latest.min.js"></script>

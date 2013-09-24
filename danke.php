@@ -8,7 +8,7 @@
 <meta property="og:title" content="Jetzt mit PlayR eine PlayStation 3 und einmal Gran Turismo 6 gewinnen!" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="local" />
-<meta property="og:image" content="http://placehold.it/810x250" />
+<meta property="og:image" content="http://www.playr.at/nis_plyr/og_image.jpg" />
 <meta property="og:site_name" content="" />
 <meta property="og:fb:admins" content="" />
 <meta property="og:description" content="Jetzt mit PlayR und Nissan eine PlayStation 3 und einmal Gran Turismo 6 gewinnen! " />
@@ -86,7 +86,7 @@ if ($ran_color == 3)
 						<img src="img/herz.png"></div>
 		<div id="intro">
 			<h2> Danke für's mitmachen</h2><br/>
-			<p>Falls dich der Zufallsgenerator als glücklichen Gewinner dieser Runde gezogen hat, melden wir uns bei dir. Teile das Gewinnspiel um deine Gewinnchancen zu erhöhen!<br/>Cheers!</p>
+			<p>Falls dich der Zufallsgenerator als glücklichen Gewinner dieser Runde gezogen hat, melden wir uns bei dir. Teile das Gewinnspiel um deine Gewinnchancen zu erhöhen!<br/><br/>Cheers!</p>
 
 			</div>
 	</div>
@@ -104,7 +104,8 @@ if ($ran_color == 3)
       'facebook-share-dialog', 
       'width=626,height=436'); 
     return false;">
-  Jetzt mit meinen Freunden teilen und Chancen erhöhen!
+    <img src="img/share_friends.png">
+  <!--Jetzt mit meinen Freunden teilen und Chancen erhöhen!-->
 </a>
 <iframe src="//www.facebook.com/plugins/facepile.php?app_id&amp;href=http%3A%2F%2Ffacebook.com%2Fplayrat&amp;action=Comma+separated+list+of+action+of+action+types&amp;width=350&amp;max_rows=2&amp;colorscheme=light&amp;size=large&amp;show_count=true&amp;appId=195895840589804" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:350px;" allowTransparency="true"></iframe>
 </div>

@@ -1,0 +1,1 @@
+<iframe src="http://www.playr.at/nis_plyr/index.php" style="border:0px #FFFFFF none;" name="frame" scrolling="no" frameborder="0" align=aus marginheight="0px" marginwidth="0px" height="1000" width="810"></iframe>
