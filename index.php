@@ -14,7 +14,7 @@
 
   <!--<script src="http://code.jquery.com/jquery-latest.min.js"></script>
 <script src="jquery.slides.min.js"></script>-->
-<link href='http://fonts.googleapis.com/css?family=Roboto:100,400,700' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Roboto:100,400,700' rel='stylesheet' type='text/css'/>
 
  
 <!-- Optionally add helpers - button, thumbnail and/or media -->
