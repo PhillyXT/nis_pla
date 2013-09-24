@@ -81,8 +81,8 @@ if ($ran_color == 3)
 		</div>
 		<div id="prize_desc">
 			<h2> Jetzt <strong>PlayStation 3</strong> und <strong>Gran Turismo 6</strong> gewinnen!</h2>
-			<p> Nissan und PlayR verlosen exklusiv ein Exemplar GT6 und eine PS3! Einfach Formular ausfüllen und Daumen drücken!<br/>
-				Ein fettest Danke an <a href="https://www.facebook.com/NissanOesterreich" target="_blank" style="color:#fff"> Nissan Österreich </a></p>
+			<p> Nissan und PlayR verlosen exklusiv ein Exemplar GT6 und eine PS3! Einfach Formular ausfüllen und Daumen drücken!<br/><br/>
+				Ein fetten Dank an <a href="https://www.facebook.com/NissanOesterreich" target="_blank" style="color:#fff"> Nissan Österreich </a> für den Support!</p>
 		</div>
 	</div>
 	<div id="part_3" class="mitte ">

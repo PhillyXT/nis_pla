@@ -109,7 +109,7 @@ if ($ran_color == 3)
 <iframe src="//www.facebook.com/plugins/facepile.php?app_id&amp;href=http%3A%2F%2Ffacebook.com%2Fplayrat&amp;action=Comma+separated+list+of+action+of+action+types&amp;width=350&amp;max_rows=2&amp;colorscheme=light&amp;size=large&amp;show_count=true&amp;appId=195895840589804" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:350px;" allowTransparency="true"></iframe>
 </div>
 	</div>
-	<div id="part_3">
+	<div id="part_3" style="display:none;">
 <div id="slides">
     <img src="http://placehold.it/810x250">
     <img src="http://placehold.it/810x250">
