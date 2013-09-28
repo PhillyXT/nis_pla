@@ -86,7 +86,7 @@ if ($ran_color == 3)
 						<img src="img/herz.png"></div>
 		<div id="intro">
 			<h2> Danke für's mitmachen</h2><br/>
-			<p>Falls dich der Zufallsgenerator als glücklichen Gewinner dieser Runde gezogen hat, melden wir uns bei dir. Teile das Gewinnspiel um deine Gewinnchancen zu erhöhen!<br/><br/>Cheers!</p>
+			<p>Falls dich der Zufallsgenerator als glücklichen Gewinner dieser Runde gezogen hat, melden wir uns bei dir. Teile das Gewinnspiel mit deinen Freunden, um deine Gewinnchancen zu erhöhen!<br/><br/>Cheers!</p>
 
 			</div>
 	</div>
@@ -100,24 +100,25 @@ if ($ran_color == 3)
 <a style="font-family:Roboto, Arial, sans-serif; color:#000;"href="#" 
   onclick="
     window.open(
-      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href), 
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent('http://go.playr.at/playr-nissan'), 
       'facebook-share-dialog', 
       'width=626,height=436'); 
     return false;">
+  window.open('http://www.facebook.com/sharer/sharer.php?u=[url]&t=[title]', 'facebook_share', 'height=320, width=640, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, directories=no, status=no');
     <img src="img/share_friends.png">
   <!--Jetzt mit meinen Freunden teilen und Chancen erhöhen!-->
 </a>
 <iframe src="//www.facebook.com/plugins/facepile.php?app_id&amp;href=http%3A%2F%2Ffacebook.com%2Fplayrat&amp;action=Comma+separated+list+of+action+of+action+types&amp;width=350&amp;max_rows=2&amp;colorscheme=light&amp;size=large&amp;show_count=true&amp;appId=195895840589804" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:350px;" allowTransparency="true"></iframe>
 </div>
 	</div>
-	<div id="part_3" style="display:none;">
-<div id="slides">
+	<div id="part_3">
+<!--<div id="slides">
     <img src="http://placehold.it/810x250">
     <img src="http://placehold.it/810x250">
     <img src="http://placehold.it/810x250">
     <img src="http://placehold.it/810x250">
     <img src="http://placehold.it/810x250">
-  </div>
+  </div>-->
 	</div>
 		
 	</div>
